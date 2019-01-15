@@ -18,3 +18,8 @@ You can find a demo for this game at https://www.youtube.com/watch?time_continue
 
 The content of this repository is licensed under [LICENSE](/LICENSE) file
 
+## Query
+
+For futher info, Contact me directly
+
+
